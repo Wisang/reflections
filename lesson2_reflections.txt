@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+: .git is generated. It is to start version control.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+: staging is btn. working directory and repository. It more economic.
